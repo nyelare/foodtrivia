@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodtrivia/static/css/main.e84ab5d4.css",
+    "main.js": "/foodtrivia/static/js/main.81234eb6.js",
+    "index.html": "/foodtrivia/index.html",
+    "main.e84ab5d4.css.map": "/foodtrivia/static/css/main.e84ab5d4.css.map",
+    "main.81234eb6.js.map": "/foodtrivia/static/js/main.81234eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84ab5d4.css",
+    "static/js/main.81234eb6.js"
+  ]
+}
