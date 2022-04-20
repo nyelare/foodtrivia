@@ -24,7 +24,7 @@ function App() {
         Food Trivia
       </h1>
       <div className="flex items-center justify-center w-11/12 mx-auto my-4 shadow-2xl p-4 bg-slate-700 shadow-black rounded-2xl h-3/5 max-w-[1700px] max-h-[700px]">
-        <h1 className="flex flex-wrap items-center justify-center text-2xl text-center text-green-100 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl">
+        <h1 className="flex flex-col flex-wrap items-center justify-center text-2xl text-center text-green-100 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl">
           "{trivia}"
           <button
             onClick={getTrivia}
